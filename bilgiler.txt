@@ -1,0 +1,9 @@
+Tue Feb  1 00:24:52 2022
+0. Moves : R 1. Moves : R 2. Moves : R 3. Moves : R 4. Moves : R Score : 5
+
+Tue Feb  1 00:25:16 2022
+0. Moves : R 1. Moves : R Score : 2
+
+Tue Feb  1 00:25:33 2022
+0. Moves : L 1. Moves : L Score : 2
+
