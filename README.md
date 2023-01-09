@@ -12,15 +12,9 @@ game view:
 # Requirements
 To run this project, you will need to have the following software requirements:
 
-• python_imagesearch
-• pyautogui
+• random
 • time
-• keyboard
-• speak
-• gTTS
-• playsound
-• os
-• speech_recognition
+• datetime
 
 # Setup
 To run this project on your own computer, follow these steps:
